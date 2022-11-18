@@ -192,20 +192,7 @@ export const CRYPTODEVS_DAO_ABI =
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-export const CRYPTODEVS_NFT_CONTRACT_ADDRESS = " 0x647f54a3167FEB76E4F35A3E02A16c768027f31D";
+export const CRYPTODEVS_NFT_CONTRACT_ADDRESS = "0x647f54a3167FEB76E4F35A3E02A16c768027f31D";
 export const abi = [
     {
       "inputs": [
